@@ -1,0 +1,11 @@
+Ação: Crie uma branch nova para os exercícios chamada "feature/exercicios".
+
+Exercício 1 — Tipos no crachá Declare e leia: nome (cadeia), matrícula (inteiro), nota da entrevista (real), sala (caracter) e se já fez curso no SENAI (logico). Imprima um crachá com todos os campos.
+
+Exercício 2 — Troco da cantina Leia o preço do lanche (real) e o valor pago (real). Calcule o troco. Se o valor pago for menor que o preço, escreva "Valor insuficiente" e não calcule troco negativo.
+
+Exercício 3 — Par ou ímpar Leia um inteiro. Use o operador % para decidir se é par ou ímpar.
+
+Exercício 5 — Situação do aluno (comparação) Leia a média (real). Imprima: "Reprovado" se média < 5; "Recuperação" se média >= 5 e média < 7; "Aprovado" se média >= 7. Use apenas comparações e se / senao se.
+
+dontpad.com/chacal_alpha
