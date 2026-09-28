@@ -57,3 +57,7 @@ programa
         escreva("Faixa etária: ", resultado)
     }
 }
+
+
+
+
