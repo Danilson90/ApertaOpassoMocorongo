@@ -1,0 +1,12 @@
+Exercício 3 — Temperaturas da semana:
+Declare real temps[5]. Leia as cinco temperaturas. Percorra o vetor e conte quantos dias ficaram acima de 25 graus. Imprima a contagem.
+
+Exercício 4 — Menor valor:
+Leia inteiro nums[6]. Encontre e imprima o menor valor e o índice em que ele aparece (o primeiro, se houver empate).
+
+Exercício 5 — Preços com desconto em lote:
+Vetor real precos[4]. Função real comDesconto(real preco) que devolve preco * 0.9 se preco >= 100, senão o próprio preco. Percorra o vetor, mostre preço original e preço final de cada item.
+
+Exercício 6 — Desafio integrado:
+Programa da oficina: leia 5 notas em um vetor. Função mediaVetor(v, n). Função logico aprovado(real media) com corte 7.0. O inicio() preenche o vetor, chama as duas funções e imprime média + situação. Extra:
+imprima também a maior nota usando uma terceira função.
