@@ -1,3 +1,7 @@
+//Exercício 3 — Temperaturas da semana:
+//Declare real temps[5]. Leia as cinco temperaturas. Percorra o vetor e conte quantos dias ficaram acima de 25 graus. Imprima a contagem.
+
+
 programa {
     funcao inicio() {
         
